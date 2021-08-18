@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My streams",
+      "description": "This is a great video",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "Netflix ",
+      "description": "Netflix and chill!!!!",
+      "userId": "111885662706222621179",
+      "id": 5
+    },
+    {
+      "title": "Prime  Video",
+      "description": "Its awesome",
+      "id": 6
+    }
+  ]
+}
